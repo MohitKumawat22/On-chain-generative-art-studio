@@ -1,0 +1,15 @@
+[package]
+name = "BLOCKPRO"
+version = "1.0.0"
+authors = []
+
+[addresses]
+wallet_address="0x4d693a2aaf6a67566eeb8be68bb28c3708b160216b2a5a5bea61d79823e526bb"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
