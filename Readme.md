@@ -41,7 +41,3 @@ Our vision is to democratize generative art creation by providing artists and co
 - **Cross-chain Bridging**: Enable NFT transfers across different blockchain networks to expand the reach and utility of the generative art pieces.
 
 - **Interactive Art Evolution**: Allow NFT holders to "evolve" their art over time by using additional randomness inputs while maintaining the original seed integrity.
-
-## Contract Details
-
-_(This section will be filled with deployment addresses, network information, and usage instructions)_
